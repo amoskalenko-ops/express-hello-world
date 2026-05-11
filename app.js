@@ -12,7 +12,7 @@ const html = `
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
   </head>
 
-  <body style="font-family: Arial; text-align: center; padding-top: 80px;">
+  <body style="font-family: Arial; text-align: center; padding-top: 150px;">
     <h1>Привіт! Це нова версія після git push / commit!</h1>
     <p>Цей текст прийшов з GitHub і автоматично задеплоївся на Render.</p>
 
